@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=*2-1
+Removed Pin From Net: NetName=VCC Pin=*3-1
+Removed Pin From Net: NetName=VCC_5V Pin=*4-2
+Added Component: Designator=C?(0805µÁ»›)
+Added Pin To Net: NetName=VCC Pin=C?-1
+Change Net Name : Old Net Name=VCC New Net Name=GND
+Added Pin To Net: NetName=VCC Pin=*2-1
+Added Pin To Net: NetName=VCC Pin=*3-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=breath_led Member=Component C? 104

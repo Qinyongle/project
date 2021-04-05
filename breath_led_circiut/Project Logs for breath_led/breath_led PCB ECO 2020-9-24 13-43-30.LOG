@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=Net*1_6 Pin=C2-2
+Removed Pin From Net: NetName=VCC Pin=R1-1
+Removed Pin From Net: NetName=VCC Pin=R3-1
+Removed Pin From Net: NetName=VCC Pin=R4-1
+Removed Pin From Net: NetName=VCC Pin=R6-1
+Removed Pin From Net: NetName=VCC Pin=R7-1
+Removed Pin From Net: NetName=VCC Pin=R8-1
+Change Component Footprint: Designator=S1 Old Footprint=MSK-12C01-07 New Footprint=SS-12F23
+Change component parameters: Designator = "C1"; Footprint = "C 0805"; UniqueID = "\MGOUDOLI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C 0805"; UniqueID = "\HLPXIMDC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1"; Footprint = "HDR-1X2"; UniqueID = "\HSRVPZYB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2"; Footprint = "HDR-1X3"; UniqueID = "\PQKRURLL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R 0805"; UniqueID = "\NVANVQUJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R 0805"; UniqueID = "\FZSCGDCT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "R 0805"; UniqueID = "\EXCNVJVC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "R 0805"; UniqueID = "\ZPUGWYES"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R 0805"; UniqueID = "\FUIDEVYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "R 0805"; UniqueID = "\VWBLVQEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "R 0805"; UniqueID = "\LCMMMDVU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "R 0805"; UniqueID = "\JQHTOHEG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1"; Footprint = "SS-12F23"; UniqueID = "\DIFGQNFU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Change component parameters: Designator = "USB1"; Footprint = "USB-MICRO_A"; UniqueID = "\DKPNFAIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "微型USB母座"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=L1 Pin=*1-11
+Added Pin To Net: NetName=L1 Pin=R1-1
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=*1-12
+Added Pin To Net: NetName=L2 Pin=R3-1
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=*1-13
+Added Pin To Net: NetName=L3 Pin=R4-1
+Added Net: Name=L3
+Added Pin To Net: NetName=L4 Pin=*1-14
+Added Pin To Net: NetName=L4 Pin=R6-1
+Added Net: Name=L4
+Added Pin To Net: NetName=L5 Pin=*1-16
+Added Pin To Net: NetName=L5 Pin=R7-1
+Added Net: Name=L5
+Added Pin To Net: NetName=L6 Pin=*1-1
+Added Pin To Net: NetName=L6 Pin=R8-1
+Added Net: Name=L6
+Added Member To Class: ClassName=breath_led Member=Component R1 1K
+Added Member To Class: ClassName=breath_led Member=Component R2 100R
+Added Room: Name=breath_led

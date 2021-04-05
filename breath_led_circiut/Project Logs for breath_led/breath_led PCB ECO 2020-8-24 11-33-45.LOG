@@ -1,0 +1,52 @@
+Added Pin To Net: NetName=Control Pin=*1-16
+Added Pin To Net: NetName=Control Pin=*6-3
+Added Pin To Net: NetName=Control Pin=D1-2
+Added Net: Name=Control
+Added Pin To Net: NetName=GND Pin=*1-8
+Added Pin To Net: NetName=GND Pin=*2-4
+Added Pin To Net: NetName=GND Pin=*3-1
+Added Pin To Net: NetName=GND Pin=*4-3
+Added Pin To Net: NetName=GND Pin=*6-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Led Pin=*1-15
+Added Pin To Net: NetName=Led Pin=*4-2
+Added Net: Name=Led
+Added Pin To Net: NetName=Net*5_2 Pin=*5-2
+Added Pin To Net: NetName=Net*5_2 Pin=C3-1
+Added Pin To Net: NetName=Net*5_2 Pin=R2-2
+Added Pin To Net: NetName=Net*5_2 Pin=R3-2
+Added Net: Name=Net*5_2
+Added Pin To Net: NetName=Net*6_1 Pin=*6-1
+Added Pin To Net: NetName=Net*6_1 Pin=R2-1
+Added Net: Name=Net*6_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=RX Pin=*1-10
+Added Pin To Net: NetName=RX Pin=*2-3
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=*1-9
+Added Pin To Net: NetName=TX Pin=*2-2
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC_5V Pin=*1-6
+Added Pin To Net: NetName=VCC_5V Pin=*2-1
+Added Pin To Net: NetName=VCC_5V Pin=*3-2
+Added Pin To Net: NetName=VCC_5V Pin=C2-2
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VCC Pin=*3-3
+Added Pin To Net: NetName=VCC Pin=*4-1
+Added Pin To Net: NetName=VCC Pin=*5-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=breath_led Member=Component *2 4P 2.54mm≈≈’Î
+Added Member To Class: ClassName=breath_led Member=Component *4 Ω”œﬂ∂À◊” KF350 3P
+Added Member To Class: ClassName=breath_led Member=Component *5 JP
+Added Room: Name=breath_led

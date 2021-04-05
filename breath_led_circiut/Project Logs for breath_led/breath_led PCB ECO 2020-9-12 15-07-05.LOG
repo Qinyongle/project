@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U1 Old Footprint=SOP65P780X173-20N New Footprint=SOP8W_M
+Change Component Comment : Designator=U1 Old Comment=CH340T New Comment=CH340N
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Added Room: Name=breath_led

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=breath_led Member=C?
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Added Member To Class: ClassName=breath_led Member=Component C3 104

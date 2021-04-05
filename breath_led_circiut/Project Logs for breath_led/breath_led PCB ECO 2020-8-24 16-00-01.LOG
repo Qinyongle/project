@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=0805二极管
+Added Member To Class: ClassName=breath_led Member=Component *1 STC8F2K16S2-SOP16
+Added Member To Class: ClassName=breath_led Member=Component *6 贴片9013三极管
+Added Room: Name=breath_led

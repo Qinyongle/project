@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [breath_led.PrjPcb]
+   Generated File[breath_led.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:52:35 On 2020/8/20

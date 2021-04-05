@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=*1-6
+Added Component: Designator=S?(MSK-12C01-07)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=S?-2
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=S?-1
+Added Net: Name=Net*1_6
+Added Member To Class: ClassName=breath_led Member=Component S? SS-12F23

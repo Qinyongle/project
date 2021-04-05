@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM Pin=JP2-2
+Removed Pin From Net: NetName=VCC Pin=JP2-3
+Added Pin To Net: NetName=VCC Pin=JP2-2
+Added Pin To Net: NetName=PWM Pin=JP2-3
+Added Room: Name=breath_led

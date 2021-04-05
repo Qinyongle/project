@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Member From Class: ClassName=breath_led Member=Q1
+Added Component: Designator=*5(贴片9013三极管)
+Added Pin To Net: NetName=GND Pin=*5-2
+Added Pin To Net: NetName=Net*5_1 Pin=*5-1
+Added Pin To Net: NetName=Net*5_1 Pin=R2-1
+Added Net: Name=Net*5_1
+Added Pin To Net: NetName=Net*5_3 Pin=*5-3
+Added Pin To Net: NetName=Net*5_3 Pin=D1-2
+Added Net: Name=Net*5_3
+Added Member To Class: ClassName=breath_led Member=Component *4 JP
+Added Member To Class: ClassName=breath_led Member=Component *5 贴片9013三极管

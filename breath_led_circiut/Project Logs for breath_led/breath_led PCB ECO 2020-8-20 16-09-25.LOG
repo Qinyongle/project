@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=* NewDesignator=*2
+Change Component Designator: OldDesignator=* NewDesignator=*4
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*4_2
+Added Member To Class: ClassName=breath_led Member=Component *2 662K

@@ -1,0 +1,92 @@
+Added Component: Designator=*1(SOP16_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(C 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Type_C-UJ31-CH-G2-SMT-TR(Primary))
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(HDR-1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR-1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOP65P780X173-20N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*1-8
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B1
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J1-SH3
+Added Pin To Net: NetName=GND Pin=J1-SH4
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=Led Pin=*1-7
+Added Pin To Net: NetName=Led Pin=JP1-1
+Added Net: Name=Led
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-5
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-A6
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-B6
+Added Pin To Net: NetName=NetJ1_A6 Pin=U1-6
+Added Net: Name=NetJ1_A6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-A7
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-B7
+Added Pin To Net: NetName=NetJ1_A7 Pin=U1-7
+Added Net: Name=NetJ1_A7
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=PWM Pin=*1-15
+Added Pin To Net: NetName=PWM Pin=JP2-2
+Added Net: Name=PWM
+Added Pin To Net: NetName=RXD Pin=*1-10
+Added Pin To Net: NetName=RXD Pin=R1-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=Touch Pin=*1-4
+Added Pin To Net: NetName=Touch Pin=JP1-2
+Added Net: Name=Touch
+Added Pin To Net: NetName=TXD Pin=*1-9
+Added Pin To Net: NetName=TXD Pin=R2-2
+Added Net: Name=TXD
+Added Pin To Net: NetName=VCC Pin=*1-6
+Added Pin To Net: NetName=VCC Pin=J1-A4
+Added Pin To Net: NetName=VCC Pin=J1-A9
+Added Pin To Net: NetName=VCC Pin=J1-B4
+Added Pin To Net: NetName=VCC Pin=J1-B9
+Added Pin To Net: NetName=VCC Pin=JP2-3
+Added Net: Name=VCC
+Added Member To Class: ClassName=breath_led Member=Component *1 STC15W408AS-SOP16
+Added Member To Class: ClassName=breath_led Member=Component C1 104
+Added Member To Class: ClassName=breath_led Member=Component J1 Type_C-24P-UJ31-CH-G2-SMT-TR
+Added Member To Class: ClassName=breath_led Member=Component JP1 HDR-1X2
+Added Member To Class: ClassName=breath_led Member=Component JP2 HDR-1X3
+Added Member To Class: ClassName=breath_led Member=Component R1 100R
+Added Member To Class: ClassName=breath_led Member=Component R2 100R
+Added Member To Class: ClassName=breath_led Member=Component U1 CH340T
+Added Room: Name=breath_led

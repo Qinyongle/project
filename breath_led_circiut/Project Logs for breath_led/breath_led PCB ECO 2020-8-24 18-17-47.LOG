@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=*2 Old Footprint=4P 2.54mm排针 New Footprint=程序下载接口
+Added Member To Class: ClassName=breath_led Member=Component *4 接线端子 KF350 3P
+Added Room: Name=breath_led
